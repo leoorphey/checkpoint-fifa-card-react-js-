@@ -1,6 +1,6 @@
 // src/App.js
 import React from "react";
-import PlayersList from "./playersList";
+import PlayersList from "./components/playersList";
 
 function App() {
   return (
